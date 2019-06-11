@@ -1,5 +1,0 @@
-package: diary-app-go
-import:
-- package: github.com/comail/colog
-- package: github.com/gin-gonic/gin
-- package: google.golang.org/appengine
