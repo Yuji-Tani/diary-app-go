@@ -13,7 +13,8 @@ const (
 	PASS     string = "*****"
 	PROTOCOL string = "tcp(27.133.130.174:3306)"
 	DBNAME   string = "diary_app"
-	CONNECT         = USER + ":" + PASS + "@" + PROTOCOL + "/" + DBNAME
+	OPTION   string = "?parseTime=true"
+	CONNECT         = USER + ":" + PASS + "@" + PROTOCOL + "/" + DBNAME + OPTION
 )
 
 type Todo struct {
