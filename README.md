@@ -8,3 +8,7 @@
 $ cd diary-app-go
 $ go run main.go
 ```
+
+Then access to following url.
+
+http://localhost:9090/
