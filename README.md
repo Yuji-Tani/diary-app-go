@@ -1,1 +1,1 @@
-# diary-app-go
+# ikioi2ch-admin-go
