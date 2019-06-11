@@ -13,6 +13,8 @@
 
 vendor/
 
+config.toml
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
