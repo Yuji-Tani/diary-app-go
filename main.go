@@ -51,7 +51,7 @@ func dbGetAll() []Todo {
 	fmt.Println("Text = " + todos[0].Text)
 	fmt.Println("Status = " + todos[1].Status)
 	fmt.Println("Text = " + todos[1].Text)
-	fm.Println("Text = " + todos[1].Text)
+	fmt.Println("Text = " + todos[1].Text)
 
 	return todos
 
